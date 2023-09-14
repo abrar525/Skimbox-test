@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+}
+.unordered {
+  list-style-type: none;
+}
+.unordered li {
+  color: black;
+  font-size: 18px;
+  font-family: Bree serif;
+}
+.docImage {
+  height: 100px;
+  width: 100px;
+}
